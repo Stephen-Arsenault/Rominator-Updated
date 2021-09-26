@@ -1,7 +1,6 @@
 [![CC-BY-SA Link](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0)
 <img align="right" width="300" height="302" src="https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-banner.png?raw=true">
 
-<img align="right" width="300" height="298" src="https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-back-banner.png?raw=true">
 # Rominator Updated
 A PCB update to the popular [ROMinator by BOMW](https://www.bigmessowires.com/mac-rom-inator/) with the following tweaks:
  - Aligned the CPU header in-line with the placement of the wires on the CPU
@@ -12,6 +11,7 @@ A PCB update to the popular [ROMinator by BOMW](https://www.bigmessowires.com/ma
  - Rounded corners so less chance of cuts (both people and wires!)
  - Made the board symmetrical for aesthetics
 
+<img align="right" width="300" height="298" src="https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-back-banner.png?raw=true">
  # Bill of Materials
  The original [BMOW BOM](https://www.bigmessowires.com/rom-adapter/make-your-own-kit.txt) can be used, which includes:
  - qty 2, 39SF040 4MBit flash memory 32-pin DIP ([digikey](http://www.digikey.com/product-detail/en/SST39SF040-70-4C-PHE/SST39SF040-70-4C-PHE-ND/2297835))
