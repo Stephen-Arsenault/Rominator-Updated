@@ -10,6 +10,7 @@ A PCB update to the popular [ROMinator by BOMW](https://www.bigmessowires.com/ma
  - Improved header labelling on the bottom of the PCB
  - Rounded corners so less chance of cuts (both people and wires!)
  - Made the board symmetrical for aesthetics
+ - Open Hardware ([oshwlab](https://oshwlab.com/stephenarsenault/bmow-rominator-revision))
 
 <img align="right" width="300" height="298" src="https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-back-banner.png?raw=true">
 
