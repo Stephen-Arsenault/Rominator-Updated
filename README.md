@@ -12,6 +12,7 @@ A PCB update to the popular [ROMinator by BOMW](https://www.bigmessowires.com/ma
  - Made the board symmetrical for aesthetics
 
 <img align="right" width="300" height="298" src="https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-back-banner.png?raw=true">
+
  # Bill of Materials
  The original [BMOW BOM](https://www.bigmessowires.com/rom-adapter/make-your-own-kit.txt) can be used, which includes:
  - qty 2, 39SF040 4MBit flash memory 32-pin DIP ([digikey](http://www.digikey.com/product-detail/en/SST39SF040-70-4C-PHE/SST39SF040-70-4C-PHE-ND/2297835))
