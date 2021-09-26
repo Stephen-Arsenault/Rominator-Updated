@@ -1,6 +1,6 @@
 [![CC-BY-SA Link](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0)
 
-![Rominator Updated](https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-banner.png?raw=true)
+<img align="right" width="150" height="151" src="(https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-banner.png?raw=true">
 
 # Rominator Updated
 A PCB update to the popular [ROMinator by BOMW](https://www.bigmessowires.com/mac-rom-inator/) with the following tweaks:
