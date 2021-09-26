@@ -16,6 +16,11 @@ A PCB update to the popular [ROMinator by BOMW](https://www.bigmessowires.com/ma
 # Support
 Big Mess O' Wires discontinued sales and support for the ROMinator. If you have general questions about assembly or parts please feel free to [join the Open Retro SCSI Discord server](https://discord.gg/5AtypUqFCT).
 
+# Commercial Use
+This project is licensed as CC BY-SA 4.0 and therefor permits commercial use. I encourage anyone interested to make these available at the lowest comfortable price so long as they provide sufficient attribution:
+ - Clearly link to this GitHub repo
+ - Credit the creation to either BetterBit or Stephen Arsenault
+
  # Bill of Materials
  The original [BMOW BOM](https://www.bigmessowires.com/rom-adapter/make-your-own-kit.txt) can be used, which includes:
  - qty 2, 39SF040 4MBit flash memory 32-pin DIP ([digikey](http://www.digikey.com/product-detail/en/SST39SF040-70-4C-PHE/SST39SF040-70-4C-PHE-ND/2297835))
