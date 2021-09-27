@@ -23,12 +23,13 @@ This project is licensed as CC BY-SA 4.0 and therefor permits commercial use. I 
  - Credit the creation to either BetterBit or Stephen Arsenault
 
  # Bill of Materials
- The original [BMOW BOM](https://www.bigmessowires.com/rom-adapter/make-your-own-kit.txt) can be used, which includes:
+ The original [BMOW BOM](https://www.bigmessowires.com/rom-adapter/make-your-own-kit.txt) can be used. I have also created a *[DigiKey cart](https://www.digikey.com/short/22vtrr3m) which includes:
  - qty 2, 39SF040 4MBit flash memory 32-pin DIP ([digikey](http://www.digikey.com/product-detail/en/SST39SF040-70-4C-PHE/SST39SF040-70-4C-PHE-ND/2297835))
- - qty 2, 32-pin 0.6 inch DIP socket ([jameco](https://www.jameco.com/z/6000-32DW-Socket-IC-32-Pin-600-Inch-Tin-Dual-Solder-Low-Profile_112301.html)) ([digikey](http://www.digikey.com/product-detail/en/ED32DT/ED3053-5-ND/4147603))
- - qty 1, 74HCT02 NOR gate 14-pin SOIC ([digikey](http://www.digikey.com/product-detail/en/74HCT02D,653/568-1500-1-ND/763398))
- - 0.1 inch male machine pin header (need 56 positions total) ([digikey](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/4-103747-0-10/683359))
- - 0.1 inch male square header (need 4 positions total)
+ - qty 2, 32-pin 0.6 inch DIP socket ([digikey](https://www.digikey.com/en/products/detail/ICS-632-T/2057-ICS-632-T-ND/9832864?itemSeq=377778527))
+ - qty 1, 74HCT02 NOR gate 14-pin SOIC ([digikey](https://www.digikey.com/en/products/detail/texas-instruments/SN74HCT02D/376867))
+ - 0.1 inch male machine pin header (need 56 positions total) ([digikey](https://www.digikey.com/en/products/detail/PREC014SAAN-RC/S1012EC-14-ND/2774840?itemSeq=377778870))
+ - 0.1 inch male square header (need 4 positions total) ([digikey](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC004SBAN-M71RC/2774930))
+* Please note that my DigiKey cart is based on the requirements to assemble 5 PCBs.
 
 # License
 This work is licensed under a CC-BY-SA 4.0
