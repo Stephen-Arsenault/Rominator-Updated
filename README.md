@@ -2,7 +2,7 @@
 <img align="right" width="300" height="302" src="https://github.com/Stephen-Arsenault/Rominator-Updated/blob/main/images/rominator-banner.png?raw=true">
 
 # Rominator Updated
-A PCB update to the popular [ROMinator by BOMW](https://www.bigmessowires.com/mac-rom-inator/) with the following tweaks:
+A PCB update to the popular [ROMinator by BMOW](https://www.bigmessowires.com/mac-rom-inator/) with the following tweaks:
  - Aligned the CPU header in-line with the placement of the wires on the CPU
  - Removed 512k / Plus pin headers in favor of solder-pad jumpers
  - Improved ROM socket placement in order to avoid physical interference with 128k Chassis
